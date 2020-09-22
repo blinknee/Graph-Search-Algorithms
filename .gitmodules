@@ -4,3 +4,6 @@
 [submodule "OSMan"]
 	path = OSMan
 	url = https://github.com/omar-3/OSMan
+[submodule "utilities"]
+	path = utilities
+	url = https://github.com/SmartMobilityAlgorithms/utilities
