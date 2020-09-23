@@ -13,9 +13,9 @@
 
 - Dijkstra Search
 
-- [x] Hill Climbing
+- Hill Climbing
 
-- [x] Beam Search
+- Beam Search
 
 - A* Search
 
