@@ -32,7 +32,7 @@
 ## Toy Problems Notebook
 - Travelling Salesman Problem
 
-- Minimum Spanning Tree
+- [x] Minimum Spanning Tree
 
 - Grid-based Motion Planning </br>
 
