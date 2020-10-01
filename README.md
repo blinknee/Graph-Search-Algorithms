@@ -18,7 +18,7 @@
      - Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf)) :hourglass:
 
 2. Informed Search Algorithms
-   - Minimum Spanning Tree (MST) Algorithms
+   - Minimum Spanning Tree (MST) Algorithms :hourglass:
      - Boruvka 
      - Jarnik
      - Kruskal 
@@ -27,9 +27,9 @@
    - Shortest Path Algorithms
      - Hill Climbing
      - Beam search
-     - Best-first
+     - Best-first :hourglass:
      - A*
-     - Bi-directional A*
+     - Bi-directional A* 
      - Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
 
 ---
