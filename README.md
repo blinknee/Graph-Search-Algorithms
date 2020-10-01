@@ -30,7 +30,7 @@
      - Best-first
      - A*
      - Bi-directional A*
-     - K-Shortest Paths ([Yen's Algorithm (https://en.wikipedia.org/wiki/Yen%27s_algorithm#:~:text=Yen's%20algorithm%20computes%20single%2Dsource,deviations%20of%20the%20best%20path.))
+     - K-Shortest Paths ([Yen's Algorithm](ttps://en.wikipedia.org/wiki/Yen%27s_algorithm#:~:text=Yen's%20algorithm%20computes%20single%2Dsource,deviations%20of%20the%20best%20path.))
      - Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
 
 ---
