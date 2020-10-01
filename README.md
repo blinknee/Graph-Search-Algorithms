@@ -15,7 +15,7 @@
    - Shortest Path Algorithms
      - Dijkstra Search
      - Bi-Directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf))
-     - Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf))
+     - <font color="red"> Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf))</font>
 
 2. Informed Search Algorithms
    - Minimum Spanning Tree (MST) Algorithms
