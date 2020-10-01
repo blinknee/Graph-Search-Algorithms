@@ -10,11 +10,11 @@
 
 1. Blind/Uninformed Search Algorithms
    - Graph Traversal Algorithms
-     - Breadth First Search (BFS)
-     - Depth First Search (DFS)
+     - Breadth First Search (BFS) :white_check_mark:
+     - Depth First Search (DFS) :white_check_mark:
    - Shortest Path Algorithms
      - Dijkstra Search
-     - Bi-Directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf))
+     - Bi-Directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf)) :white_check_mark:
      - Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf)) :hourglass:
 
 2. Informed Search Algorithms
@@ -25,20 +25,20 @@
      - Prim 
      - Chazelle
    - Shortest Path Algorithms
-     - Hill Climbing
-     - Beam search
+     - Hill Climbing :white_check_mark:
+     - Beam search :hourglass:
      - Best-first :hourglass:
-     - A*
+     - A* :white_check_mark:
      - Bi-directional A* 
-     - Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
+     - Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf)) :white_check_mark:
 
 ---
 ## Toy Problems Notebook
-- Travelling Salesman Problem
+- Travelling Salesman Problem :white_check_mark:
 
-- Minimum Spanning Tree (MST)
+- Minimum Spanning Tree (MST) :white_check_mark:
 
-- Grid-based Motion Planning </br>
+- Grid-based Motion Planning :white_check_mark:
 
 ## Case Study Notebook
-- GIS Routing
+- GIS Routing :white_check_mark:
