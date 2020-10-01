@@ -18,7 +18,7 @@
      - Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf))
 
 2. Informed Search Algorithms
-   - MST Algorithms
+   - Minimum Spanning Tree (MST) Algorithms
      - Boruvka 
      - Jarnik
      - Kruskal 
@@ -30,14 +30,13 @@
      - Best-first
      - A*
      - Bi-directional A*
-     - K-Shortest Paths ([Yen's Algorithm](ttps://en.wikipedia.org/wiki/Yen%27s_algorithm#:~:text=Yen's%20algorithm%20computes%20single%2Dsource,deviations%20of%20the%20best%20path.))
      - Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
 
 ---
 ## Toy Problems Notebook
 - Travelling Salesman Problem
 
-- [x] Minimum Spanning Tree
+- Minimum Spanning Tree (MST)
 
 - Grid-based Motion Planning </br>
 
