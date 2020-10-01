@@ -26,7 +26,7 @@
      - Chazelle
    - Shortest Path Algorithms
      - Hill Climbing :white_check_mark:
-     - Beam search :hourglass:
+     - Beam search :white_check_mark:
      - Best-first :hourglass:
      - A* :white_check_mark:
      - Bi-directional A* 
