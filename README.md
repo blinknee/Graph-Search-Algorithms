@@ -13,7 +13,7 @@
      - Breadth First Search (BFS) :white_check_mark:
      - Depth First Search (DFS) :white_check_mark:
    - Shortest Path Algorithms
-     - Dijkstra Search
+     - Dijkstra Search :white_check_mark:
      - Bi-Directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf)) :white_check_mark:
      - Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf)) :hourglass:
 
