@@ -7,26 +7,31 @@
 
 ---
 ## Algorithm Notebooks
-- Breadth First Search
 
-- Depth First Search
+1. Blind/Uninformed Search Algorithms
+   - Graph Traversal Algorithms
+     - Breadth First Search (BFS)
+     - Depth First Search (DFS)
+   - Shortest Path Algorithms
+     - Dijkstra Search
+     - Bi-Directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf))
+     - Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf))
 
-- Dijkstra Search
-
-- Hill Climbing
-
-- Beam Search
-
-- A* Search
-
-- [x] K-Shortest Paths ([Yen's Algorithm](https://en.wikipedia.org/wiki/Yen%27s_algorithm#:~:text=Yen's%20algorithm%20computes%20single%2Dsource,deviations%20of%20the%20best%20path.))
-
-- Bi-Directional Search ([MM](https://webdocs.cs.ualberta.ca/~holte/Publications/MM-AAAI2016.pdf))
-
-- Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
-
-- [x] Multi-Level Dijkstra ([MLD](https://pdfs.semanticscholar.org/41bd/34a4ff346a1efe4dfe9f6268fd90638f742e.pdf))
-
+2. Informed Search Algorithms
+   - MST Algorithms
+     - Boruvka 
+     - Jarnik
+     - Kruskal 
+     - Prim 
+     - Chazelle
+   - Shortest Path Algorithms
+     - Hill Climbing
+     - Beam search
+     - Best-first
+     - A*
+     - Bi-directional A*
+     - K-Shortest Paths ([Yen's Algorithm (https://en.wikipedia.org/wiki/Yen%27s_algorithm#:~:text=Yen's%20algorithm%20computes%20single%2Dsource,deviations%20of%20the%20best%20path.))
+     - Contraction Hierarchies ([CHs](http://algo2.iti.kit.edu/schultes/hwy/contract.pdf))
 
 ---
 ## Toy Problems Notebook
